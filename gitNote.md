@@ -43,8 +43,7 @@
   
   1. git log（查看git提交记录）
   2. git log —pretty==oneline
-  3. git reset —hard HEAD*
+  3. git reset —hard HEAD^
   4. git reset —hard 343434
 
 [^​created by Zuston]: this is the git note
-
